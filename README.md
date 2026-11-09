@@ -13,10 +13,10 @@
 I'm a **Full Stack Developer** passionate about building scalable,
 modern applications and solving real-world problems through technology.
 
-- 🔭 Currently working on **YOUR CURRENT PROJECT**
-- 🌱 Currently learning **YOUR CURRENT LEARNING**
+- 🔭 Currently working on **MY CURRENT PROJECT**
+- 🌱 Currently learning **MY CURRENT LEARNING**
 - 💡 Interested in **AI, Backend Systems, Cloud & Web Development**
-- 🚀 Building projects with **YOUR MAIN TECHNOLOGIES**
+- 🚀 Building projects with **MY MAIN TECHNOLOGIES**
 - 💼 Open to **Software Developer / Full Stack / AI opportunities**
 
 ---
